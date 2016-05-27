@@ -1,0 +1,19 @@
+
+
+NET "EN" LOC = N3;
+NET "ENCin[0]" LOC = P11;
+NET "ENCin[1]" LOC = L3;
+NET "ENCin[2]" LOC = K3;
+NET "ENCin[3]" LOC = B4;
+NET "DECin[0]" LOC = F3;
+NET "DECin[1]" LOC = E2;
+NET "DECout[0]" LOC = M5;
+NET "DECout[1]" LOC = M11;
+NET "DECout[2]" LOC = P7;
+NET "DECout[3]" LOC = P6;
+NET "ENCout[0]" LOC = N4;
+NET "ENCout[1]" LOC = P4;
+
+# PlanAhead Generated physical constraints 
+
+NET "FLAG" LOC = G1;
